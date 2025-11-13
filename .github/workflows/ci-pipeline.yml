@@ -1,4 +1,6 @@
 name: ML CI Workflow
+permissions:
+  contents: read
 
 on:
   push:
